@@ -46,10 +46,12 @@ Após abrir o dashboard, prossiga com os passos sugerido pelo Cypress.
 -Cypress: Framework de automação: https://cypress.io/
 
 
-### Bom exercício ;) 
+### Bom exercício ; 
 Fábio & José Ernesto
 Qualidade de software
 
 
 
 
+=======
+# teste-api-ebac
