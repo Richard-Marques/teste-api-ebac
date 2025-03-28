@@ -4,15 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run",        
-    "start": "npx serverest",          
-    "cy:run": "npx cypress run"        
+    "test": "npx cypress run"     
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.6.0",               
-    "joi": "^17.12.0"             
+    "joi": "^17.12.0"                   
   }
 }
