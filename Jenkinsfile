@@ -6,6 +6,7 @@ pipeline {
             steps {
                 git branch: 'main', url: 'https://github.com/Richard-Marques/teste-api-ebac.git'
                 sh 'npm install'
+                sh 'npx serverest &'
             }
         }
         stage('Test') {
